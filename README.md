@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm nathanael</h1>
 <h3 align="center">A passionate data engineer/web developer from france</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/nathanael-gangnimaze/</h3>
 <p align="left">
 </p>
 
